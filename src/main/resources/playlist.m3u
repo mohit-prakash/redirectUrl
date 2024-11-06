@@ -1,0 +1,1206 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=143 tvg-name="CNBC Tv18 Prime HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CNBC_Tv18_Prime_HD.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC Tv18 Prime HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=143
+#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=144
+#EXTINF:-1 tvg-id=146 tvg-name="History TV18 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=146
+#EXTINF:-1 tvg-id=151 tvg-name="Movies Now HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Movies Now HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=151
+#EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=154
+#EXTINF:-1 tvg-id=155 tvg-name="Sony Ten 5 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=155
+#EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=162
+#EXTINF:-1 tvg-id=164 tvg-name="Travelxp HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=164
+#EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=173
+#EXTINF:-1 tvg-id=175 tvg-name="Aastha" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=175
+#EXTINF:-1 tvg-id=177 tvg-name="ABP News India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ABP_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP News India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=177
+#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=182
+#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=183
+#EXTINF:-1 tvg-id=190 tvg-name="CNBC Awaaz" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CNBC_Awaaz.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", CNBC Awaaz
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=190
+#EXTINF:-1 tvg-id=193 tvg-name="CNN" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CNN.png" tvg-language="English" tvg-type="News" group-title="News", CNN
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=193
+#EXTINF:-1 tvg-id=202 tvg-name="DD National" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_National.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD National
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=202
+#EXTINF:-1 tvg-id=203 tvg-name="DD News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DD News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=203
+#EXTINF:-1 tvg-id=204 tvg-name="DD Sports" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=204
+#EXTINF:-1 tvg-id=212 tvg-name="ET Now" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ET_Now.png" tvg-language="English" tvg-type="Business" group-title="Business", ET Now
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=212
+#EXTINF:-1 tvg-id=231 tvg-name="News 18 India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IBN_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 18 India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=231
+#EXTINF:-1 tvg-id=235 tvg-name="India TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=235
+#EXTINF:-1 tvg-id=242 tvg-name="Discovery" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_Channel_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=242
+#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=248
+#EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=250
+#EXTINF:-1 tvg-id=255 tvg-name="NDTV 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NDTV_24x7.png" tvg-language="English" tvg-type="News" group-title="News", NDTV 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=255
+#EXTINF:-1 tvg-id=258 tvg-name="NDTV India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=258
+#EXTINF:-1 tvg-id=259 tvg-name="NDTV Profit" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NDTV_Profit.png" tvg-language="English" tvg-type="Business" group-title="Business", NDTV Profit
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=259
+#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=279
+#EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=286
+#EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=288
+#EXTINF:-1 tvg-id=289 tvg-name="Sony Max SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=289
+#EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=291
+#EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=383
+#EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=400
+#EXTINF:-1 tvg-id=401 tvg-name="Swayam Prabha 19" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_19.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 19
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=401
+#EXTINF:-1 tvg-id=402 tvg-name="PM e Vidya 02" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 02
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=402
+#EXTINF:-1 tvg-id=403 tvg-name="Swayam Prabha 20" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_20.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 20
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=403
+#EXTINF:-1 tvg-id=404 tvg-name="PM e Vidya 07" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 07
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=404
+#EXTINF:-1 tvg-id=405 tvg-name="PM e Vidya 03" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_3.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 03
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=405
+#EXTINF:-1 tvg-id=406 tvg-name="PM e Vidya 04" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_4.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 04
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=406
+#EXTINF:-1 tvg-id=407 tvg-name="PM e Vidya 05" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_5.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 05
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=407
+#EXTINF:-1 tvg-id=408 tvg-name="PM e Vidya 06" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_6.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 06
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=408
+#EXTINF:-1 tvg-id=409 tvg-name="PM e Vidya 08" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/_evidya_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 08
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=409
+#EXTINF:-1 tvg-id=410 tvg-name="PM e Vidya 09" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_9.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 09
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=410
+#EXTINF:-1 tvg-id=411 tvg-name="PM e Vidya 10" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_10.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 10
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=411
+#EXTINF:-1 tvg-id=412 tvg-name="Wion" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Wion.png" tvg-language="English" tvg-type="News" group-title="News", Wion
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=412
+#EXTINF:-1 tvg-id=421 tvg-name="GOA 365" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Goa365.png" tvg-language="English" tvg-type="News" group-title="News", GOA 365
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=421
+#EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=440
+#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=463
+#EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=466
+#EXTINF:-1 tvg-id=471 tvg-name="Sony SAB HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=471
+#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=474
+#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=476
+#EXTINF:-1 tvg-id=477 tvg-name="MN+ HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN+ HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=477
+#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=479
+#EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=481
+#EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=482
+#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=483
+#EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=485
+#EXTINF:-1 tvg-id=486 tvg-name="Bhojpuri Cinema" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=486
+#EXTINF:-1 tvg-id=489 tvg-name="CNBC Tv 18" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CNBC_Tv_18.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC Tv 18
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=489
+#EXTINF:-1 tvg-id=491 tvg-name="Mirror Now" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Mirror_Now.png" tvg-language="English" tvg-type="News" group-title="News", Mirror Now
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=491
+#EXTINF:-1 tvg-id=492 tvg-name="CNN NEWS 18" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CNN_NEWS_18.png" tvg-language="English" tvg-type="News" group-title="News", CNN NEWS 18
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=492
+#EXTINF:-1 tvg-id=493 tvg-name="India Today" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Today.png" tvg-language="English" tvg-type="News" group-title="News", India Today
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=493
+#EXTINF:-1 tvg-id=494 tvg-name="AL Jazeera" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/AL_Jazeera.png" tvg-language="English" tvg-type="News" group-title="News", AL Jazeera
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=494
+#EXTINF:-1 tvg-id=495 tvg-name="News X" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_X.png" tvg-language="English" tvg-type="News" group-title="News", News X
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=495
+#EXTINF:-1 tvg-id=496 tvg-name="dw" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/dw.png" tvg-language="English" tvg-type="News" group-title="News", dw
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=496
+#EXTINF:-1 tvg-id=498 tvg-name="India news" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_news.png" tvg-language="Hindi" tvg-type="News" group-title="News", India news
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=498
+#EXTINF:-1 tvg-id=499 tvg-name="News Nation" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Nation
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=499
+#EXTINF:-1 tvg-id=501 tvg-name="News 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=501
+#EXTINF:-1 tvg-id=502 tvg-name="Good News Today" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Tez.png" tvg-language="Hindi" tvg-type="News" group-title="News", Good News Today
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=502
+#EXTINF:-1 tvg-id=503 tvg-name="IBC24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IBC-24.png" tvg-language="Hindi" tvg-type="News" group-title="News", IBC24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=503
+#EXTINF:-1 tvg-id=504 tvg-name="Zee News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=504
+#EXTINF:-1 tvg-id=506 tvg-name="Sahara Samay Rastriya" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sahara_Samay_Rastriya.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sahara Samay Rastriya
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=506
+#EXTINF:-1 tvg-id=507 tvg-name="SAHARA SAMAY MP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SAHARA_SAMAY_MP.png" tvg-language="Hindi" tvg-type="News" group-title="News", SAHARA SAMAY MP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=507
+#EXTINF:-1 tvg-id=508 tvg-name="SAHARA SAMAY UP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SAHARA_SAMAY_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", SAHARA SAMAY UP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=508
+#EXTINF:-1 tvg-id=509 tvg-name="Sahara Samay Bihar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sahara_Samay_Bihar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sahara Samay Bihar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=509
+#EXTINF:-1 tvg-id=510 tvg-name="VIP News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VIP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VIP News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=510
+#EXTINF:-1 tvg-id=511 tvg-name="Mh One News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Mh_One_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Mh One News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=511
+#EXTINF:-1 tvg-id=512 tvg-name="India News UP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_News_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News UP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=512
+#EXTINF:-1 tvg-id=513 tvg-name="India News Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_News_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=513
+#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=514
+#EXTINF:-1 tvg-id=515 tvg-name="India News MP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_News_MP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News MP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=515
+#EXTINF:-1 tvg-id=516 tvg-name="India News Haryana" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_News_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Haryana
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=516
+#EXTINF:-1 tvg-id=518 tvg-name="Sudarshan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=518
+#EXTINF:-1 tvg-id=519 tvg-name="Sadhna News Plus" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sadhna_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News Plus
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=519
+#EXTINF:-1 tvg-id=520 tvg-name="Sansad TV HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Rajyasabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=520
+#EXTINF:-1 tvg-id=522 tvg-name="Sansad TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Loksabha_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=522
+#EXTINF:-1 tvg-id=523 tvg-name="Ten 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Ten 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=523
+#EXTINF:-1 tvg-id=524 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=524
+#EXTINF:-1 tvg-id=525 tvg-name="Sony Ten 5" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=525
+#EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=527
+#EXTINF:-1 tvg-id=528 tvg-name="DD India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=528
+#EXTINF:-1 tvg-id=529 tvg-name="News18 MP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ETV_MP.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 MP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=529
+#EXTINF:-1 tvg-id=530 tvg-name="News18 UP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ETV_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 UP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=530
+#EXTINF:-1 tvg-id=531 tvg-name="News18 RAJASTHAN" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ETV_RAJASTHAN.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 RAJASTHAN
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=531
+#EXTINF:-1 tvg-id=532 tvg-name="Dabangg" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dabangg.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dabangg
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=532
+#EXTINF:-1 tvg-id=533 tvg-name="Raj Pariwar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Raj_Pariwar.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Raj Pariwar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=533
+#EXTINF:-1 tvg-id=535 tvg-name="Dhamaal TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dhamaal_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dhamaal TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=535
+#EXTINF:-1 tvg-id=536 tvg-name="DD Madhya Pradesh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Madhya_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Madhya Pradesh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=536
+#EXTINF:-1 tvg-id=538 tvg-name="DD Rajasthan (Jaipur)" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Rajasthan_Jaipur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Rajasthan (Jaipur)
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=538
+#EXTINF:-1 tvg-id=539 tvg-name="DD Bihar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Bihar.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Bihar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=539
+#EXTINF:-1 tvg-id=540 tvg-name="DD Uttar Pradesh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Uttar_Pradesh.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Uttar Pradesh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=540
+#EXTINF:-1 tvg-id=541 tvg-name="Discovery Turbo" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Turbo
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=541
+#EXTINF:-1 tvg-id=544 tvg-name="Nick Junior" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=544
+#EXTINF:-1 tvg-id=545 tvg-name="Nick Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=545
+#EXTINF:-1 tvg-id=548 tvg-name="Nickelodeon Jr." tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=548
+#EXTINF:-1 tvg-id=551 tvg-name="TEST14 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST14_HD.png" tvg-language="English" tvg-type="Kids" group-title="Kids", TEST14 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=551
+#EXTINF:-1 tvg-id=554 tvg-name="Discovery Kids 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_Kids_2.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Discovery Kids 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=554
+#EXTINF:-1 tvg-id=559 tvg-name="Pogo Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Pogo_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Pogo Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=559
+#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=560
+#EXTINF:-1 tvg-id=561 tvg-name="Food Food" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Food Food
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=561
+#EXTINF:-1 tvg-id=562 tvg-name="Travelxp HD Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Travel_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=562
+#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=566
+#EXTINF:-1 tvg-id=567 tvg-name="Animal Planet English" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Animal_Planet_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet English
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=567
+#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=568
+#EXTINF:-1 tvg-id=571 tvg-name="TLC Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TLC_Hindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=571
+#EXTINF:-1 tvg-id=572 tvg-name="Zee UP UK" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Living_Foodz.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee UP UK
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=572
+#EXTINF:-1 tvg-id=574 tvg-name="TLC English" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TLC_English.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC English
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=574
+#EXTINF:-1 tvg-id=575 tvg-name="Discovery Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Discovery_Channel_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=575
+#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=578
+#EXTINF:-1 tvg-id=580 tvg-name="DD bharati" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_bharati.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD bharati
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=580
+#EXTINF:-1 tvg-id=583 tvg-name="DD Kisan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Kisan.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", DD Kisan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=583
+#EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=584
+#EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=587
+#EXTINF:-1 tvg-id=591 tvg-name="E 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=591
+#EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=592
+#EXTINF:-1 tvg-id=593 tvg-name="Sadhna" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sadhna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sadhna
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=593
+#EXTINF:-1 tvg-id=594 tvg-name="Aastha Bhajan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha Bhajan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=594
+#EXTINF:-1 tvg-id=596 tvg-name="Jinvani TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jinvani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Jinvani TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=596
+#EXTINF:-1 tvg-id=597 tvg-name="Satsang TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Satsang_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Satsang TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=597
+#EXTINF:-1 tvg-id=599 tvg-name="Disha tv" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Disha_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Disha tv
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=599
+#EXTINF:-1 tvg-id=601 tvg-name="Ishwar TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ishwar_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ishwar TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=601
+#EXTINF:-1 tvg-id=602 tvg-name="Paras tv" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Paras_tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Paras tv
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=602
+#EXTINF:-1 tvg-id=608 tvg-name="Shubhsandesh TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shubhsandesh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shubhsandesh TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=608
+#EXTINF:-1 tvg-id=611 tvg-name="Darshan 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Darshan_24.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Darshan 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=611
+#EXTINF:-1 tvg-id=652 tvg-name="Zee Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=652
+#EXTINF:-1 tvg-id=655 tvg-name="News18 Punjab Haryana" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ETV_Haryana_and_HP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", News18 Punjab Haryana
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=655
+#EXTINF:-1 tvg-id=656 tvg-name="News 9" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News9.png" tvg-language="English" tvg-type="News" group-title="News", News 9
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=656
+#EXTINF:-1 tvg-id=657 tvg-name="Zee Business" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_Business.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", Zee Business
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=657
+#EXTINF:-1 tvg-id=658 tvg-name="Zee News MP Chattisgarh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_News_MP_Chattisgarh.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News MP Chattisgarh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=658
+#EXTINF:-1 tvg-id=659 tvg-name="Zee Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=659
+#EXTINF:-1 tvg-id=661 tvg-name="Zee Bihar Jharkhand" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_Purvaiya.png" tvg-language="Bhojpuri" tvg-type="News" group-title="News", Zee Bihar Jharkhand
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=661
+#EXTINF:-1 tvg-id=693 tvg-name="News18 BIHAR" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ETV_BIHAR.png" tvg-language="Bhojpuri" tvg-type="News" group-title="News", News18 BIHAR
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=693
+#EXTINF:-1 tvg-id=701 tvg-name="Dangal" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dangal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dangal
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=701
+#EXTINF:-1 tvg-id=724 tvg-name="Zee Delhi NCR Haryana" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_Kalinga.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Delhi NCR Haryana
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=724
+#EXTINF:-1 tvg-id=741 tvg-name="Sangeet Bhojpuri" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sangeet_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Sangeet Bhojpuri
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=741
+#EXTINF:-1 tvg-id=753 tvg-name="MTV Beats HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MTV_Beats_HD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=753
+#EXTINF:-1 tvg-id=764 tvg-name="Channel News Asia International" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Channel_News_Asia_International.png" tvg-language="English" tvg-type="News" group-title="News", Channel News Asia International
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=764
+#EXTINF:-1 tvg-id=768 tvg-name="Jan TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jan_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=768
+#EXTINF:-1 tvg-id=770 tvg-name="Kashish News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Kashish_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Kashish News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=770
+#EXTINF:-1 tvg-id=771 tvg-name="Live Today" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Live_Today.png" tvg-language="Hindi" tvg-type="News" group-title="News", Live Today
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=771
+#EXTINF:-1 tvg-id=783 tvg-name="K News India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/K_News_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", K News India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=783
+#EXTINF:-1 tvg-id=787 tvg-name="CVR English" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CVR_English.png" tvg-language="English" tvg-type="News" group-title="News", CVR English
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=787
+#EXTINF:-1 tvg-id=788 tvg-name="India Voice" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Voice.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Voice
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=788
+#EXTINF:-1 tvg-id=789 tvg-name="JK 24x7 News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/JK_24x7_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", JK 24x7 News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=789
+#EXTINF:-1 tvg-id=791 tvg-name="Taaza TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Taaza_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Taaza TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=791
+#EXTINF:-1 tvg-id=792 tvg-name="News State UK UP" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_State_UK_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State UK UP
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=792
+#EXTINF:-1 tvg-id=793 tvg-name="Sahara Samay Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sahara_Samay_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sahara Samay Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=793
+#EXTINF:-1 tvg-id=794 tvg-name="Peace of Mind" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Peace_of_Mind.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Peace of Mind
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=794
+#EXTINF:-1 tvg-id=795 tvg-name="testa" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Wellness.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", testa
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=795
+#EXTINF:-1 tvg-id=801 tvg-name="Divya TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Divya_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Divya TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=801
+#EXTINF:-1 tvg-id=804 tvg-name="Samachar Plus" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Samachar_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Plus
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=804
+#EXTINF:-1 tvg-id=808 tvg-name="Hindi Khabar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hindi_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Hindi Khabar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=808
+#EXTINF:-1 tvg-id=809 tvg-name="Maha Movies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Maha_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Maha Movies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=809
+#EXTINF:-1 tvg-id=815 tvg-name="Sonic Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/sonic_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sonic Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=815
+#EXTINF:-1 tvg-id=816 tvg-name="Cartoon Network Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=816
+#EXTINF:-1 tvg-id=828 tvg-name="Shubh TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shubh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shubh TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=828
+#EXTINF:-1 tvg-id=831 tvg-name="Living India News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Living_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Living India News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=831
+#EXTINF:-1 tvg-id=837 tvg-name="Euro News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Euro_News.png" tvg-language="English" tvg-type="News" group-title="News", Euro News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=837
+#EXTINF:-1 tvg-id=846 tvg-name="MKN News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MK_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", MKN News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=846
+#EXTINF:-1 tvg-id=850 tvg-name="News India 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_India_24_X_7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News India 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=850
+#EXTINF:-1 tvg-id=851 tvg-name="SMBC TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SMBC_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", SMBC TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=851
+#EXTINF:-1 tvg-id=855 tvg-name="Total TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Total_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Total TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=855
+#EXTINF:-1 tvg-id=856 tvg-name="Vedic TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Vedic TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=856
+#EXTINF:-1 tvg-id=858 tvg-name="Republic TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Republic_TV.png" tvg-language="English" tvg-type="News" group-title="News", Republic TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=858
+#EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Jio Exclusive HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=866
+#EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=871
+#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=872
+#EXTINF:-1 tvg-id=875 tvg-name="Eurosport HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=875
+#EXTINF:-1 tvg-id=876 tvg-name="Times Now World" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Times_Now_HD.png" tvg-language="English" tvg-type="News" group-title="News", Times Now World
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=876
+#EXTINF:-1 tvg-id=877 tvg-name="MNX HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=877
+#EXTINF:-1 tvg-id=879 tvg-name="Hare krsna" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Harekrsna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare krsna
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=879
+#EXTINF:-1 tvg-id=880 tvg-name="Janta TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Janta_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=880
+#EXTINF:-1 tvg-id=882 tvg-name="News11" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News11.png" tvg-language="Hindi" tvg-type="News" group-title="News", News11
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=882
+#EXTINF:-1 tvg-id=883 tvg-name="Oscar Movies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Osar_Movies.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Oscar Movies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=883
+#EXTINF:-1 tvg-id=885 tvg-name="TV5 Monde" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV_5_Monde.png" tvg-language="English" tvg-type="News" group-title="News", TV5 Monde
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=885
+#EXTINF:-1 tvg-id=887 tvg-name="Swar Shree" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Garv_Swaminarayan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Swar Shree
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=887
+#EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=891
+#EXTINF:-1 tvg-id=892 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=892
+#EXTINF:-1 tvg-id=907 tvg-name="GoodNews Channel" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/GoodNews_Channel.png" tvg-language="English" tvg-type="News" group-title="News", GoodNews Channel
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=907
+#EXTINF:-1 tvg-id=915 tvg-name="Khabar Fast" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Khabar_Fast.png" tvg-language="Hindi" tvg-type="News" group-title="News", Khabar Fast
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=915
+#EXTINF:-1 tvg-id=916 tvg-name="TV 100" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV_100.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV 100
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=916
+#EXTINF:-1 tvg-id=918 tvg-name="Bharat Samachar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Samachar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=918
+#EXTINF:-1 tvg-id=921 tvg-name="Prime News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=921
+#EXTINF:-1 tvg-id=926 tvg-name="A1 TV Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/A1_TV_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", A1 TV Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=926
+#EXTINF:-1 tvg-id=927 tvg-name="First India News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/First_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", First India News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=927
+#EXTINF:-1 tvg-id=936 tvg-name="News 1 India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_1_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 1 India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=936
+#EXTINF:-1 tvg-id=939 tvg-name="Bhaktisagar 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bhaktisagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Bhaktisagar 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=939
+#EXTINF:-1 tvg-id=957 tvg-name="INH 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/INH_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", INH 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=957
+#EXTINF:-1 tvg-id=958 tvg-name="DNN" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DNN.png" tvg-language="Hindi" tvg-type="News" group-title="News", DNN
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=958
+#EXTINF:-1 tvg-id=962 tvg-name="Boogle Bollywood" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Boogle_Bollywood.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Boogle Bollywood
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=962
+#EXTINF:-1 tvg-id=963 tvg-name="Arre HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Arre.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Arre HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=963
+#EXTINF:-1 tvg-id=964 tvg-name="Om Shanti" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Om_Shanti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Om Shanti
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=964
+#EXTINF:-1 tvg-id=966 tvg-name="Prudent" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PrudentHD.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prudent
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=966
+#EXTINF:-1 tvg-id=972 tvg-name="Sarv Dharam Sangam" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sarv_Dharam_Sangam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sarv Dharam Sangam
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=972
+#EXTINF:-1 tvg-id=975 tvg-name="Jantantra" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jantantra.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jantantra
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=975
+#EXTINF:-1 tvg-id=978 tvg-name="TEST1 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST1_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TEST1 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=978
+#EXTINF:-1 tvg-id=979 tvg-name="TEST2 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST2_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TEST2 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=979
+#EXTINF:-1 tvg-id=980 tvg-name="Swayam Prabha 01" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_01.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 01
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=980
+#EXTINF:-1 tvg-id=981 tvg-name="Swayam Prabha 02" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_02.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 02
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=981
+#EXTINF:-1 tvg-id=982 tvg-name="Swayam Prabha 03" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_03.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 03
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=982
+#EXTINF:-1 tvg-id=983 tvg-name="Swayam Prabha 08" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_08.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 08
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=983
+#EXTINF:-1 tvg-id=984 tvg-name="Swayam Prabha 04" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_04.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 04
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=984
+#EXTINF:-1 tvg-id=985 tvg-name="Swayam Prabha 07" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_07.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 07
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=985
+#EXTINF:-1 tvg-id=986 tvg-name="Swayam Prabha 05" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_05.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 05
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=986
+#EXTINF:-1 tvg-id=987 tvg-name="Swayam Prabha 06" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_06.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 06
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=987
+#EXTINF:-1 tvg-id=988 tvg-name="Swayam Prabha 09" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_09.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 09
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=988
+#EXTINF:-1 tvg-id=989 tvg-name="Swayam Prabha 10" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_10.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 10
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=989
+#EXTINF:-1 tvg-id=990 tvg-name="Swayam Prabha 11" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_11.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 11
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=990
+#EXTINF:-1 tvg-id=991 tvg-name="Swayam Prabha 12" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_12.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 12
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=991
+#EXTINF:-1 tvg-id=992 tvg-name="Swayam Prabha 13" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_13.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 13
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=992
+#EXTINF:-1 tvg-id=993 tvg-name="Swayam Prabha 14" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_14.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 14
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=993
+#EXTINF:-1 tvg-id=994 tvg-name="Swayam Prabha 16" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_16.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 16
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=994
+#EXTINF:-1 tvg-id=995 tvg-name="Swayam Prabha 15" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_15.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 15
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=995
+#EXTINF:-1 tvg-id=996 tvg-name="Swayam Prabha 17" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_17.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 17
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=996
+#EXTINF:-1 tvg-id=997 tvg-name="Swayam Prabha 21" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_21.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 21
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=997
+#EXTINF:-1 tvg-id=998 tvg-name="Swayam Prabha 22" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_22.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 22
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=998
+#EXTINF:-1 tvg-id=999 tvg-name="Swayam Prabha 18" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swayam_Prabha_18.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swayam Prabha 18
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=999
+#EXTINF:-1 tvg-id=1059 tvg-name="TEST3 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST3_HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", TEST3 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1059
+#EXTINF:-1 tvg-id=1061 tvg-name="TEST5 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST5_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", TEST5 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1061
+#EXTINF:-1 tvg-id=1066 tvg-name="The Q" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TheQIndia.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", The Q
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1066
+#EXTINF:-1 tvg-id=1077 tvg-name="Sharnam TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sharnam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sharnam TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1077
+#EXTINF:-1 tvg-id=1078 tvg-name="Soham TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Soham_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Soham TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1078
+#EXTINF:-1 tvg-id=1079 tvg-name="CN HD+ English" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ English
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1079
+#EXTINF:-1 tvg-id=1102 tvg-name="RDX Goa" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RDX_News.png" tvg-language="English" tvg-type="News" group-title="News", RDX Goa
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1102
+#EXTINF:-1 tvg-id=1103 tvg-name="PEACE MUSIC" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PEACE_MUSIC.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", PEACE MUSIC
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1103
+#EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1145
+#EXTINF:-1 tvg-id=1148 tvg-name="TEST8 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST8_HD.png" tvg-language="English" tvg-type="Shopping" group-title="Shopping", TEST8 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1148
+#EXTINF:-1 tvg-id=1157 tvg-name="Comedy Central HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Comedy_Central_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Comedy Central HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1157
+#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1158
+#EXTINF:-1 tvg-id=1163 tvg-name="JioGames HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_Esports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", JioGames HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1163
+#EXTINF:-1 tvg-id=1175 tvg-name="Awakening" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Awakening.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Awakening
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1175
+#EXTINF:-1 tvg-id=1179 tvg-name="Bansal News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bansal_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bansal News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1179
+#EXTINF:-1 tvg-id=1185 tvg-name="Swadesh News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swadesh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Swadesh News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1185
+#EXTINF:-1 tvg-id=1193 tvg-name="Hare Krsna Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hare_Krsna_music.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare Krsna Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1193
+#EXTINF:-1 tvg-id=1201 tvg-name="Sadhguru Television HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sadhguru_Television.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", Sadhguru Television HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1201
+#EXTINF:-1 tvg-id=1205 tvg-name="ABP Ganga" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ABP_Ganga.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABP Ganga
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1205
+#EXTINF:-1 tvg-id=1212 tvg-name="Hare Krsna Pravachan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hare_Krsna_Pravachan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Hare Krsna Pravachan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1212
+#EXTINF:-1 tvg-id=1216 tvg-name="Highbrow" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Highbrow.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Highbrow
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1216
+#EXTINF:-1 tvg-id=1220 tvg-name="Rajyoga TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Rajyoga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Rajyoga TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1220
+#EXTINF:-1 tvg-id=1222 tvg-name="Mandir Shri Govinddevji-Jaipur" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/GovindDevji_Jaipur.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Mandir Shri Govinddevji-Jaipur
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1222
+#EXTINF:-1 tvg-id=1224 tvg-name="Nimbark TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nimbark.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Nimbark TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1224
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1226
+#EXTINF:-1 tvg-id=1232 tvg-name="Hi Dost!" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hi_Dost.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Hi Dost!
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1232
+#EXTINF:-1 tvg-id=1240 tvg-name="TEST10 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST10_HD.png" tvg-language="English" tvg-type="News" group-title="News", TEST10 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1240
+#EXTINF:-1 tvg-id=1241 tvg-name="God TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/God_TV.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", God TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1241
+#EXTINF:-1 tvg-id=1249 tvg-name="Kadak Hits" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Kadak_Hits.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Kadak Hits
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1249
+#EXTINF:-1 tvg-id=1251 tvg-name="TV9 Bharatvarsh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1251
+#EXTINF:-1 tvg-id=1257 tvg-name="Surya Samachar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Surya_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Surya Samachar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1257
+#EXTINF:-1 tvg-id=1263 tvg-name="Total Tv Haryana" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Total_Tv_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", Total Tv Haryana
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1263
+#EXTINF:-1 tvg-id=1278 tvg-name="Prarthana Bhawan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Prarthana_Bhawan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prarthana Bhawan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1278
+#EXTINF:-1 tvg-id=1286 tvg-name="Insync" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Insync.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Insync
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1286
+#EXTINF:-1 tvg-id=1287 tvg-name="ANB News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ANBNews.png" tvg-language="Hindi" tvg-type="News" group-title="News", ANB News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1287
+#EXTINF:-1 tvg-id=1292 tvg-name="Wellness" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Wellness_TV.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Wellness
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1292
+#EXTINF:-1 tvg-id=1294 tvg-name="Eurosport" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dsports.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1294
+#EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1295
+#EXTINF:-1 tvg-id=1296 tvg-name="B4U Bhojpuri" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/B4U_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", B4U Bhojpuri
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1296
+#EXTINF:-1 tvg-id=1315 tvg-name="HHDL" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/HHDL.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", HHDL
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1315
+#EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1320
+#EXTINF:-1 tvg-id=1325 tvg-name="Colors Infinity SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_Infinity_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1325
+#EXTINF:-1 tvg-id=1327 tvg-name="Comedy Central SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Comedy_Central_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Comedy Central SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1327
+#EXTINF:-1 tvg-id=1328 tvg-name="DD Arunprabha" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Arunprabha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Arunprabha
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1328
+#EXTINF:-1 tvg-id=1329 tvg-name="DD Gyandarshan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_Gyandarshan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD Gyandarshan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1329
+#EXTINF:-1 tvg-id=1337 tvg-name="Top Tutor" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Top_Tutor.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Top Tutor
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1337
+#EXTINF:-1 tvg-id=1338 tvg-name="RT TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RT_TV.png" tvg-language="English" tvg-type="News" group-title="News", RT TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1338
+#EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1368
+#EXTINF:-1 tvg-id=1378 tvg-name="VH1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VH1.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1378
+#EXTINF:-1 tvg-id=1393 tvg-name="Sony Wah" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1393
+#EXTINF:-1 tvg-id=1396 tvg-name="Set SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Set SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1396
+#EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1400
+#EXTINF:-1 tvg-id=1401 tvg-name="Romedy Now" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Romedy Now
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1401
+#EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1403
+#EXTINF:-1 tvg-id=1405 tvg-name="NHK World Japan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1405
+#EXTINF:-1 tvg-id=1407 tvg-name="Sai Leela" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sai_Leela.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sai Leela
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1407
+#EXTINF:-1 tvg-id=1410 tvg-name="PM e Vidya 11" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_11.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 11
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1410
+#EXTINF:-1 tvg-id=1411 tvg-name="SongDew TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SongDew_TV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", SongDew TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1411
+#EXTINF:-1 tvg-id=1414 tvg-name="Prati Shirdi Saibaba" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Prati_Shirdi_Saibaba.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Prati Shirdi Saibaba
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1414
+#EXTINF:-1 tvg-id=1415 tvg-name="Ganga Darshan Varanasi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ganga_Darshan_Varanasi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ganga Darshan Varanasi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1415
+#EXTINF:-1 tvg-id=1418 tvg-name="Ichhapuran Balaji Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ichhapuran_Balaji_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ichhapuran Balaji Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1418
+#EXTINF:-1 tvg-id=1421 tvg-name="Karani Mata Rajasthan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Karani_Mata_Rajasthan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Karani Mata Rajasthan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1421
+#EXTINF:-1 tvg-id=1426 tvg-name="Santvani" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Santvani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Santvani
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1426
+#EXTINF:-1 tvg-id=1430 tvg-name="Jio KIDS" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_KIDS.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Jio KIDS
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1430
+#EXTINF:-1 tvg-id=1433 tvg-name="India Science" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Science.png" tvg-language="English" tvg-type="Educational" group-title="Educational", India Science
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1433
+#EXTINF:-1 tvg-id=1434 tvg-name="Utkarsh Primary" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Utkarsh_Primary.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Utkarsh Primary
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1434
+#EXTINF:-1 tvg-id=1435 tvg-name="Utkarsh HSBTE" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Utkarsh_Middle.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Utkarsh HSBTE
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1435
+#EXTINF:-1 tvg-id=1436 tvg-name="Utkarsh Secondary" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Utkarsh_Secondary.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Utkarsh Secondary
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1436
+#EXTINF:-1 tvg-id=1437 tvg-name="Utkarsh Higher" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Utkarsh_Higher.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Utkarsh Higher
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1437
+#EXTINF:-1 tvg-id=1440 tvg-name="Krishna Vani" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Krishna_Vani.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Krishna Vani
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1440
+#EXTINF:-1 tvg-id=1447 tvg-name="TV Teacher" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV_Teacher.png" tvg-language="English" tvg-type="Educational" group-title="Educational", TV Teacher
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1447
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1450
+#EXTINF:-1 tvg-id=1451 tvg-name="9 Bharat Samachar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/9_Bharat_Samachar.png" tvg-language="Hindi" tvg-type="News" group-title="News", 9 Bharat Samachar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1451
+#EXTINF:-1 tvg-id=1456 tvg-name="Lairik" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Manipur_Educational_Channel.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Lairik
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1456
+#EXTINF:-1 tvg-id=1463 tvg-name="Shree Ganesh - Moti Doongri Jaipur" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Moti_Doongri.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shree Ganesh - Moti Doongri Jaipur
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1463
+#EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/History_TV18_SD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1471
+#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1477
+#EXTINF:-1 tvg-id=1482 tvg-name="AMMA TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Amma.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", AMMA TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1482
+#EXTINF:-1 tvg-id=1521 tvg-name="Birla Brainiacs" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Birla_Brainiacs.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Birla Brainiacs
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1521
+#EXTINF:-1 tvg-id=1525 tvg-name="TEST13 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TEST13_HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", TEST13 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1525
+#EXTINF:-1 tvg-id=1528 tvg-name="Network 10" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Network_10.png" tvg-language="Hindi" tvg-type="News" group-title="News", Network 10
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1528
+#EXTINF:-1 tvg-id=1529 tvg-name="MI TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MI_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", MI TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1529
+#EXTINF:-1 tvg-id=1531 tvg-name="Gyanvani 1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Gyanvani_1.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Gyanvani 1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1531
+#EXTINF:-1 tvg-id=1532 tvg-name="PM e Vidya 12" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/evidya_12.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 12
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1532
+#EXTINF:-1 tvg-id=1542 tvg-name="Tute" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Tute.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Tute
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1542
+#EXTINF:-1 tvg-id=1543 tvg-name="Subharti" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Subharti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Subharti
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1543
+#EXTINF:-1 tvg-id=1549 tvg-name="Dharm Granth TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DharmaGranth_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dharm Granth TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1549
+#EXTINF:-1 tvg-id=1550 tvg-name="AB News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/AB_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", AB News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1550
+#EXTINF:-1 tvg-id=1551 tvg-name="P News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/P_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", P News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1551
+#EXTINF:-1 tvg-id=1553 tvg-name="AB Star News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ABSTAR_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", AB Star News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1553
+#EXTINF:-1 tvg-id=1554 tvg-name="Sanatan TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanatan_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1554
+#EXTINF:-1 tvg-id=1559 tvg-name="Jigyasa TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jigyasa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Jigyasa TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1559
+#EXTINF:-1 tvg-id=1560 tvg-name="35mm" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/35mm.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", 35mm
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1560
+#EXTINF:-1 tvg-id=1562 tvg-name="Himshiksha Elementary" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Himshiksha_Elementary.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Himshiksha Elementary
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1562
+#EXTINF:-1 tvg-id=1563 tvg-name="Himshiksha Higher" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Himshiksha_Higher.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Himshiksha Higher
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1563
+#EXTINF:-1 tvg-id=1564 tvg-name="Himshiksha Vocational" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Himshiksha_Vocational.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Himshiksha Vocational
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1564
+#EXTINF:-1 tvg-id=1568 tvg-name="Atmadarshan TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Atmadarshan_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Atmadarshan TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1568
+#EXTINF:-1 tvg-id=1590 tvg-name="Sanskrit" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanskritam.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Sanskrit
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1590
+#EXTINF:-1 tvg-id=1593 tvg-name="Lifology" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Lifology.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Lifology
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1593
+#EXTINF:-1 tvg-id=1594 tvg-name="Samachar 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Samachar_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1594
+#EXTINF:-1 tvg-id=1598 tvg-name="FTV HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/FTV_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", FTV HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1598
+#EXTINF:-1 tvg-id=1607 tvg-name="Manav Dharam" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Manav_Dharam.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Manav Dharam
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1607
+#EXTINF:-1 tvg-id=1608 tvg-name="MP News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", MP News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1608
+#EXTINF:-1 tvg-id=1609 tvg-name="Ishvani TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ishvani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ishvani TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1609
+#EXTINF:-1 tvg-id=1613 tvg-name="Medha Secondary" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Medha_Secondary.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Medha Secondary
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1613
+#EXTINF:-1 tvg-id=1614 tvg-name="Omnicuris" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Omnicuris.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Omnicuris
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1614
+#EXTINF:-1 tvg-id=1635 tvg-name="News State MPCG " tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_State_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State MPCG 
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1635
+#EXTINF:-1 tvg-id=1670 tvg-name="C News Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/C_News_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", C News Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1670
+#EXTINF:-1 tvg-id=1672 tvg-name="Gyanvani 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Gyanvani_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Gyanvani 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1672
+#EXTINF:-1 tvg-id=1673 tvg-name="PTD Chhattisgarrh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PTD_Chhattisgarrh.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", PTD Chhattisgarrh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1673
+#EXTINF:-1 tvg-id=1675 tvg-name="ESG TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ESG.png" tvg-language="English" tvg-type="Sports" group-title="Sports", ESG TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1675
+#EXTINF:-1 tvg-id=1694 tvg-name="Haryana Beats" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Haryana_Beats.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Haryana Beats
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1694
+#EXTINF:-1 tvg-id=1695 tvg-name="Prime TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Prime_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1695
+#EXTINF:-1 tvg-id=1697 tvg-name="FM News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/FM_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", FM News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1697
+#EXTINF:-1 tvg-id=1698 tvg-name="IND 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IND_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", IND 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1698
+#EXTINF:-1 tvg-id=1728 tvg-name="Anaadi TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Anaadi_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Anaadi TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1728
+#EXTINF:-1 tvg-id=1739 tvg-name="JKAC News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/V24_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", JKAC News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1739
+#EXTINF:-1 tvg-id=1741 tvg-name="Bharat AtoZ" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_AtoZ.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat AtoZ
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1741
+#EXTINF:-1 tvg-id=1742 tvg-name="Sanskrit Ganga" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanskrit_Ganga_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskrit Ganga
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1742
+#EXTINF:-1 tvg-id=1743 tvg-name="Hornbill TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hornbill_TV.png" tvg-language="English" tvg-type="News" group-title="News", Hornbill TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1743
+#EXTINF:-1 tvg-id=1745 tvg-name="Zee Bioskope SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Zee_Bioskope_SD.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Zee Bioskope SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1745
+#EXTINF:-1 tvg-id=1758 tvg-name="DPK News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DPK_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DPK News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1758
+#EXTINF:-1 tvg-id=1761 tvg-name="Aryan TV National" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aryan_TV_National.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aryan TV National
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1761
+#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1763
+#EXTINF:-1 tvg-id=1764 tvg-name="Dada Bhagwan Foundation" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dadabhagwan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dada Bhagwan Foundation
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1764
+#EXTINF:-1 tvg-id=1777 tvg-name="Bharat News TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat News TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1777
+#EXTINF:-1 tvg-id=1780 tvg-name="HooplaKidz TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hoopla_Kids_TV.png" tvg-language="English" tvg-type="Kids" group-title="Kids", HooplaKidz TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1780
+#EXTINF:-1 tvg-id=1787 tvg-name="VISVAS" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VISVAS.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", VISVAS
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1787
+#EXTINF:-1 tvg-id=1788 tvg-name="Yeshuaa TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Yeshuaa.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Yeshuaa TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1788
+#EXTINF:-1 tvg-id=1791 tvg-name="KP News 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/KPNews.png" tvg-language="Hindi" tvg-type="News" group-title="News", KP News 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1791
+#EXTINF:-1 tvg-id=1793 tvg-name="National News Sattaxpress" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/National_News_Sattaxpress.png" tvg-language="Hindi" tvg-type="News" group-title="News", National News Sattaxpress
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1793
+#EXTINF:-1 tvg-id=1794 tvg-name="Mangalmay Live" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Mangalmaylive.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Mangalmay Live
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1794
+#EXTINF:-1 tvg-id=1795 tvg-name="Shri Amarnathji Shrine Board" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shri_Amarnath_Shrine_Board.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shri Amarnathji Shrine Board
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1795
+#EXTINF:-1 tvg-id=1798 tvg-name="Pasand" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Pasand.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="Entertainment", Pasand
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1798
+#EXTINF:-1 tvg-id=1802 tvg-name="News World India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_World_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", News World India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1802
+#EXTINF:-1 tvg-id=1804 tvg-name="Jan Setu News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jan_Setu_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jan Setu News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1804
+#EXTINF:-1 tvg-id=1817 tvg-name="NEWS 24 MPCG" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NEWS_24_MPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", NEWS 24 MPCG
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1817
+#EXTINF:-1 tvg-id=1826 tvg-name="Swaralasika Sangeetalaya" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Swarlasika.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Swaralasika Sangeetalaya
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1826
+#EXTINF:-1 tvg-id=1827 tvg-name="Aakash EduTV NEET" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aakash_EduTV_NEET.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Aakash EduTV NEET
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1827
+#EXTINF:-1 tvg-id=1834 tvg-name="Green Chillies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Green_Chillies_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Green Chillies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1834
+#EXTINF:-1 tvg-id=1847 tvg-name="Z10 TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Harpal_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Z10 TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1847
+#EXTINF:-1 tvg-id=1851 tvg-name="Aakash EduTV JEE" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aakash_EduTV_JEE.png" tvg-language="English" tvg-type="Educational" group-title="Educational", Aakash EduTV JEE
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1851
+#EXTINF:-1 tvg-id=1853 tvg-name="News11 Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News11_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", News11 Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1853
+#EXTINF:-1 tvg-id=1854 tvg-name="STV Haryana News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/STV_Haryana_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", STV Haryana News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1854
+#EXTINF:-1 tvg-id=1855 tvg-name="NL TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NL_TV.png" tvg-language="English" tvg-type="News" group-title="News", NL TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1855
+#EXTINF:-1 tvg-id=1885 tvg-name="Kripa TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Kripa_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Kripa TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1885
+#EXTINF:-1 tvg-id=1886 tvg-name="Sansad TV Rajya Sabha" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sansad_TV_RajyaSabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV Rajya Sabha
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1886
+#EXTINF:-1 tvg-id=1895 tvg-name="Today 24 News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Today_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1895
+#EXTINF:-1 tvg-id=1896 tvg-name="News Flash" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_Flash.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Flash
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1896
+#EXTINF:-1 tvg-id=1897 tvg-name="Pulse 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Pulse_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Pulse 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1897
+#EXTINF:-1 tvg-id=1898 tvg-name="GBN24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/GBN24.png" tvg-language="Hindi" tvg-type="News" group-title="News", GBN24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1898
+#EXTINF:-1 tvg-id=1900 tvg-name="Express News Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ENB.png" tvg-language="Hindi" tvg-type="News" group-title="News", Express News Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1900
+#EXTINF:-1 tvg-id=1901 tvg-name="Adhyatam TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Adhyatam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Adhyatam TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1901
+#EXTINF:-1 tvg-id=1906 tvg-name="Times Now Navbharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Times_Now_Navbharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Times Now Navbharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1906
+#EXTINF:-1 tvg-id=1907 tvg-name="ET Now Swadesh" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ET_Now_Swadesh.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", ET Now Swadesh
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1907
+#EXTINF:-1 tvg-id=1918 tvg-name="Jio Cricket English HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_Cricket_English.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Jio Cricket English HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1918
+#EXTINF:-1 tvg-id=1920 tvg-name="The Q Kahaniyan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/The_Q_Kahaniyan.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", The Q Kahaniyan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1920
+#EXTINF:-1 tvg-id=1925 tvg-name="MH1 Dil Se" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/MH1_DilSe.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="Entertainment", MH1 Dil Se
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1925
+#EXTINF:-1 tvg-id=1926 tvg-name="Sanskriti 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanskriti_24x7.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskriti 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1926
+#EXTINF:-1 tvg-id=1955 tvg-name="Foodxp" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Foodxp
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1955
+#EXTINF:-1 tvg-id=1959 tvg-name="Global India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Global_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Global India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1959
+#EXTINF:-1 tvg-id=1961 tvg-name="Shemaroo TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1961
+#EXTINF:-1 tvg-id=1963 tvg-name="News 24 Express" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News24_Express.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24 Express
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1963
+#EXTINF:-1 tvg-id=1964 tvg-name="ABC News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ABC_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", ABC News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1964
+#EXTINF:-1 tvg-id=1965 tvg-name="VNM TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VNM_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VNM TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1965
+#EXTINF:-1 tvg-id=1967 tvg-name="PMC Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PMC_Hindi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", PMC Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1967
+#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 1 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1984
+#EXTINF:-1 tvg-id=1985 tvg-name="Sports18 1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1985
+#EXTINF:-1 tvg-id=1998 tvg-name="Sports18 Khel" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sports18_Khel.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sports18 Khel
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1998
+#EXTINF:-1 tvg-id=1999 tvg-name="Raftaar Media" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Raftaar_Media.png" tvg-language="Hindi" tvg-type="News" group-title="News", Raftaar Media
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=1999
+#EXTINF:-1 tvg-id=2000 tvg-name="PlusTest1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PlusTest1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", PlusTest1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2000
+#EXTINF:-1 tvg-id=2001 tvg-name="PlusTest2 HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PlusTest2_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", PlusTest2 HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2001
+#EXTINF:-1 tvg-id=2003 tvg-name="3.0 TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Crypto_TV.png" tvg-language="English" tvg-type="Educational" group-title="Educational", 3.0 TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2003
+#EXTINF:-1 tvg-id=2005 tvg-name="IN 24 News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Virat_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN 24 News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2005
+#EXTINF:-1 tvg-id=2008 tvg-name="News 21" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_21.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 21
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2008
+#EXTINF:-1 tvg-id=2013 tvg-name="Leaking Top Secret" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ekamra_S_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Leaking Top Secret
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2013
+#EXTINF:-1 tvg-id=2014 tvg-name="News India TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Rajpath_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", News India TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2014
+#EXTINF:-1 tvg-id=2018 tvg-name="Samachar Nation" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Samachar_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Nation
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2018
+#EXTINF:-1 tvg-id=2020 tvg-name="KKD News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/KKD_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", KKD News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2020
+#EXTINF:-1 tvg-id=2021 tvg-name="HNN 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/HNN24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", HNN 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2021
+#EXTINF:-1 tvg-id=2029 tvg-name="Aaryaa Bhakti" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aaryaa_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aaryaa Bhakti
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2029
+#EXTINF:-1 tvg-id=2030 tvg-name="Aaryaa News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aaryaa_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaryaa News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2030
+#EXTINF:-1 tvg-id=2031 tvg-name="Fashion India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Fashion_India.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Fashion India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2031
+#EXTINF:-1 tvg-id=2034 tvg-name="NSDC TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NSDC_TV.png" tvg-language="English" tvg-type="Educational" group-title="Educational", NSDC TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2034
+#EXTINF:-1 tvg-id=2036 tvg-name="Dil Se" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dil_Se.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Dil Se
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2036
+#EXTINF:-1 tvg-id=2037 tvg-name="Pop Pataka" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Pop_Pataka.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Pop Pataka
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2037
+#EXTINF:-1 tvg-id=2038 tvg-name="Dhamaal" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Dhamaal.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Dhamaal
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2038
+#EXTINF:-1 tvg-id=2040 tvg-name="Bollywood Hungama" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bollywood_Hungama.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Hungama
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2040
+#EXTINF:-1 tvg-id=2041 tvg-name="Bhakti Sagar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bhakti_Sagar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Bhakti Sagar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2041
+#EXTINF:-1 tvg-id=2042 tvg-name="Nazraana" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nazraana.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Nazraana
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2042
+#EXTINF:-1 tvg-id=2043 tvg-name="Artist Aloud" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Artist_Aloud.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Artist Aloud
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2043
+#EXTINF:-1 tvg-id=2045 tvg-name="Auroville TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Auroville_TV.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", Auroville TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2045
+#EXTINF:-1 tvg-id=2063 tvg-name="RS Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RS_Bharat.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", RS Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2063
+#EXTINF:-1 tvg-id=2064 tvg-name="Merchant Records" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Merchant_Records.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Merchant Records
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2064
+#EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2065
+#EXTINF:-1 tvg-id=2074 tvg-name="Prime Media Goa" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Prime_Media.png" tvg-language="Hindi" tvg-type="News" group-title="News", Prime Media Goa
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2074
+#EXTINF:-1 tvg-id=2077 tvg-name="Gangaur" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Gangaur.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Gangaur
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2077
+#EXTINF:-1 tvg-id=2078 tvg-name="Shemaroo Umang" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shemaroo_Umang.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo Umang
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2078
+#EXTINF:-1 tvg-id=2079 tvg-name="Bharat 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2079
+#EXTINF:-1 tvg-id=2081 tvg-name="TV27 News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV27_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV27 News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2081
+#EXTINF:-1 tvg-id=2082 tvg-name="22Scope News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/22Scope_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", 22Scope News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2082
+#EXTINF:-1 tvg-id=2176 tvg-name="India 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", India 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2176
+#EXTINF:-1 tvg-id=2177 tvg-name="Arya Sandesh TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Arya_Sandesh_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arya Sandesh TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2177
+#EXTINF:-1 tvg-id=2183 tvg-name="Q GameX" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Q_GameX.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Q GameX
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2183
+#EXTINF:-1 tvg-id=2189 tvg-name="Aaryaa Cinema" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aaryaa_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Aaryaa Cinema
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2189
+#EXTINF:-1 tvg-id=2192 tvg-name="Gurukul" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Gurukul_Rajkot.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Gurukul
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2192
+#EXTINF:-1 tvg-id=2225 tvg-name="TV24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2225
+#EXTINF:-1 tvg-id=2229 tvg-name="Bhojpuri Junction" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bhojpuri_Junction.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Bhojpuri Junction
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2229
+#EXTINF:-1 tvg-id=2230 tvg-name="Jio Specials HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jio_Specials_HD.png" tvg-language="English" tvg-type="Music" group-title="Music", Jio Specials HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2230
+#EXTINF:-1 tvg-id=2233 tvg-name="News 80" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News80.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 80
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2233
+#EXTINF:-1 tvg-id=2252 tvg-name="Desi Music Station" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Desi_Music_Station.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Desi Music Station
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2252
+#EXTINF:-1 tvg-id=2254 tvg-name="Media9" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Media9.png" tvg-language="Hindi" tvg-type="News" group-title="News", Media9
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2254
+#EXTINF:-1 tvg-id=2255 tvg-name="Raftaar Samay" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RRN_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Raftaar Samay
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2255
+#EXTINF:-1 tvg-id=2258 tvg-name="Animax" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Animax
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2258
+#EXTINF:-1 tvg-id=2322 tvg-name="Divyalok TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Divyalok_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Divyalok TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2322
+#EXTINF:-1 tvg-id=2323 tvg-name="TTN24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TTN24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TTN24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2323
+#EXTINF:-1 tvg-id=2326 tvg-name="Firstpost" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Firstpost.png" tvg-language="English" tvg-type="News" group-title="News", Firstpost
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2326
+#EXTINF:-1 tvg-id=2327 tvg-name="Lionsgate Play" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Lionsgate_Play.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Lionsgate Play
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2327
+#EXTINF:-1 tvg-id=2328 tvg-name="CyberPeace TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CyberPeace_TV.png" tvg-language="English" tvg-type="Educational" group-title="Educational", CyberPeace TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2328
+#EXTINF:-1 tvg-id=2352 tvg-name="Narikaa" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Narikaa.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", Narikaa
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2352
+#EXTINF:-1 tvg-id=2353 tvg-name="Bharat Express" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_Express.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Express
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2353
+#EXTINF:-1 tvg-id=2388 tvg-name="Sadhguru Television SD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sadhguru_Television_SD.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", Sadhguru Television SD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2388
+#EXTINF:-1 tvg-id=2423 tvg-name="Vande Bharat News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Vande_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vande Bharat News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2423
+#EXTINF:-1 tvg-id=2433 tvg-name="E News79" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/E_News79.png" tvg-language="Hindi" tvg-type="News" group-title="News", E News79
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2433
+#EXTINF:-1 tvg-id=2437 tvg-name="Wild Earth" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Wild_Earth.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Wild Earth
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2437
+#EXTINF:-1 tvg-id=2448 tvg-name="Desika daya" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Desika_daya.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Desika daya
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2448
+#EXTINF:-1 tvg-id=2687 tvg-name="The Book Channel" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NTBD_Channel.png" tvg-language="English" tvg-type="Educational" group-title="Educational", The Book Channel
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2687
+#EXTINF:-1 tvg-id=2734 tvg-name="Popular TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Popular_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Popular TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2734
+#EXTINF:-1 tvg-id=2735 tvg-name="Samachar Plus Jharkhand Bihar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Samachar_Plus_Jh_Bihar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Samachar Plus Jharkhand Bihar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2735
+#EXTINF:-1 tvg-id=2751 tvg-name="Saga Music Haryanvi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Saga_Music_Haryanvi.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saga Music Haryanvi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2751
+#EXTINF:-1 tvg-id=2753 tvg-name="YRF Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2753
+#EXTINF:-1 tvg-id=2755 tvg-name="Saregama Hum Bhojpuri" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Saregama_Hum_Bhojpuri.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", Saregama Hum Bhojpuri
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2755
+#EXTINF:-1 tvg-id=2760 tvg-name="My Bharat News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/My_Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", My Bharat News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2760
+#EXTINF:-1 tvg-id=2762 tvg-name="NH Studioz" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NH_Studioz.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH Studioz
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2762
+#EXTINF:-1 tvg-id=2764 tvg-name="News State Bihar Jharkhand" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/NewsState_Bihar_JH.png" tvg-language="Hindi" tvg-type="News" group-title="News", News State Bihar Jharkhand
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2764
+#EXTINF:-1 tvg-id=2765 tvg-name="BSTV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/BSTV.png" tvg-language="Hindi" tvg-type="News" group-title="News", BSTV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2765
+#EXTINF:-1 tvg-id=2766 tvg-name="BRAVE TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Brave_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", BRAVE TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2766
+#EXTINF:-1 tvg-id=2767 tvg-name="Sacchi Report" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sacchi_Report.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sacchi Report
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2767
+#EXTINF:-1 tvg-id=2770 tvg-name="Har Khabar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Har_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Har Khabar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2770
+#EXTINF:-1 tvg-id=2771 tvg-name="Sadhna News MP CG" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sadhna_News_MP_CG.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News MP CG
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2771
+#EXTINF:-1 tvg-id=2772 tvg-name="India Daily Live" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Daily_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Daily Live
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2772
+#EXTINF:-1 tvg-id=2773 tvg-name="Aaj Ki Khabar" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aaj_Ki_Khabar.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Ki Khabar
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2773
+#EXTINF:-1 tvg-id=2774 tvg-name="Power Kids TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Power_Kids_TV.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Power Kids TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2774
+#EXTINF:-1 tvg-id=2775 tvg-name="Grace TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Grace_TV.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", Grace TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2775
+#EXTINF:-1 tvg-id=2777 tvg-name="Asian News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Asian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Asian News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2777
+#EXTINF:-1 tvg-id=2779 tvg-name="Red Bull TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2779
+#EXTINF:-1 tvg-id=2781 tvg-name="CENTA TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CENTA_TV.png" tvg-language="English" tvg-type="Educational" group-title="Educational", CENTA TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2781
+#EXTINF:-1 tvg-id=2782 tvg-name="ABC Australia" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2782
+#EXTINF:-1 tvg-id=2784 tvg-name="ISKCON Bangalore" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ISKCON_Bangalore.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", ISKCON Bangalore
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2784
+#EXTINF:-1 tvg-id=2851 tvg-name="IN24 Live" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IN24_Live.png" tvg-language="Hindi" tvg-type="News" group-title="News", IN24 Live
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2851
+#EXTINF:-1 tvg-id=2852 tvg-name="Sports18 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sports18_2.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sports18 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2852
+#EXTINF:-1 tvg-id=2853 tvg-name="Sports18 3" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sports18_3.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 3
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2853
+#EXTINF:-1 tvg-id=2854 tvg-name="KCM" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/KCM.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", KCM
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2854
+#EXTINF:-1 tvg-id=2860 tvg-name="ICMAI-Delhi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ICAI.png" tvg-language="English" tvg-type="Educational" group-title="Educational", ICMAI-Delhi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2860
+#EXTINF:-1 tvg-id=2936 tvg-name="Oye Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Oye_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Oye Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2936
+#EXTINF:-1 tvg-id=2937 tvg-name="Update India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Update_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", Update India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2937
+#EXTINF:-1 tvg-id=2938 tvg-name="Haryana Buzz" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Haryana_Buzz.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Haryana Buzz
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2938
+#EXTINF:-1 tvg-id=2944 tvg-name="Coke Studio Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Coke_Studio_Bharat.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Coke Studio Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2944
+#EXTINF:-1 tvg-id=2945 tvg-name="Tar TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Tar_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Tar TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2945
+#EXTINF:-1 tvg-id=2946 tvg-name="National News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/National_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", National News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2946
+#EXTINF:-1 tvg-id=2947 tvg-name="Jeewan Bhakti" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jeewan_Bhakti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Jeewan Bhakti
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2947
+#EXTINF:-1 tvg-id=2953 tvg-name="Enrich TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Enrich_TV.png" tvg-language="English" tvg-type="News" group-title="News", Enrich TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2953
+#EXTINF:-1 tvg-id=2954 tvg-name="TV45" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV45.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV45
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2954
+#EXTINF:-1 tvg-id=2955 tvg-name="Shrimad Ramayan" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shrimad_Ramayan.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shrimad Ramayan
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2955
+#EXTINF:-1 tvg-id=2957 tvg-name="Public First" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Public_First.png" tvg-language="Hindi" tvg-type="News" group-title="News", Public First
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2957
+#EXTINF:-1 tvg-id=2959 tvg-name="Janta Darbar News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Janta_Darbar_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Janta Darbar News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2959
+#EXTINF:-1 tvg-id=2962 tvg-name="NoFilterNeha" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/No_Filter_Neha.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", NoFilterNeha
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=2962
+#EXTINF:-1 tvg-id=3003 tvg-name="Coke Studio Bharat Season 1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/CokeStudio_Bharat_S1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Coke Studio Bharat Season 1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3003
+#EXTINF:-1 tvg-id=3007 tvg-name="AMV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/AMV.png" tvg-language="Hindi" tvg-type="News" group-title="News", AMV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3007
+#EXTINF:-1 tvg-id=3011 tvg-name="Lancs TV HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Lancs_TV_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Lancs TV HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3011
+#EXTINF:-1 tvg-id=3013 tvg-name="Narayana Health" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Narayana_Health.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Narayana Health
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3013
+#EXTINF:-1 tvg-id=3014 tvg-name="IPN News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IPN_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", IPN News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3014
+#EXTINF:-1 tvg-id=3016 tvg-name="TNI24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TNI24.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNI24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3016
+#EXTINF:-1 tvg-id=3017 tvg-name="News Hour" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_Hour.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Hour
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3017
+#EXTINF:-1 tvg-id=3021 tvg-name="RC Studio" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RC_Studio.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", RC Studio
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3021
+#EXTINF:-1 tvg-id=3022 tvg-name="Unique Tv" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Unique_Tv.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Unique Tv
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3022
+#EXTINF:-1 tvg-id=3024 tvg-name="India TV Yoga Channel" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/IndiaTV_Yoga.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Yoga Channel
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3024
+#EXTINF:-1 tvg-id=3025 tvg-name="India TV Aap Ki Adalat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Aap Ki Adalat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3025
+#EXTINF:-1 tvg-id=3026 tvg-name="India TV Speed News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Speed News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3026
+#EXTINF:-1 tvg-id=3027 tvg-name="Desh News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Desh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Desh News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3027
+#EXTINF:-1 tvg-id=3028 tvg-name="BH OTT India Fest" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH OTT India Fest
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3028
+#EXTINF:-1 tvg-id=3029 tvg-name="Bollywood Masala" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/bollywoodmasala.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Masala
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3029
+#EXTINF:-1 tvg-id=3038 tvg-name="Amritwani TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Amritwani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Amritwani TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3038
+#EXTINF:-1 tvg-id=3039 tvg-name="Garvi Gujarat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Garvi_Gujarat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Garvi Gujarat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3039
+#EXTINF:-1 tvg-id=3041 tvg-name="Bharat TV24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_TV24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat TV24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3041
+#EXTINF:-1 tvg-id=3042 tvg-name="News 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3042
+#EXTINF:-1 tvg-id=3044 tvg-name="Gramin Drishti" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Gramin_Drishti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Gramin Drishti
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3044
+#EXTINF:-1 tvg-id=3048 tvg-name="BVG" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/BVG.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", BVG
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3048
+#EXTINF:-1 tvg-id=3049 tvg-name="TNI Awaaz" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TNI_Awaaz.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNI Awaaz
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3049
+#EXTINF:-1 tvg-id=3050 tvg-name="Indian News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Indian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Indian News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3050
+#EXTINF:-1 tvg-id=3052 tvg-name="Shresth Bharat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Shresth_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Shresth Bharat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3052
+#EXTINF:-1 tvg-id=3053 tvg-name="TNP News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TNP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNP News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3053
+#EXTINF:-1 tvg-id=3054 tvg-name="RDC Movies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/rdcmovies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", RDC Movies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3054
+#EXTINF:-1 tvg-id=3055 tvg-name="Q Toonz" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/qtoonz.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Q Toonz
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3055
+#EXTINF:-1 tvg-id=3060 tvg-name="Hiff Movies" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Hiff_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Hiff Movies
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3060
+#EXTINF:-1 tvg-id=3061 tvg-name="Desi Tashan TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Desi_Tashan_TV.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Desi Tashan TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3061
+#EXTINF:-1 tvg-id=3062 tvg-name="Haryana Tashan Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/HR_Tashan_Music.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Haryana Tashan Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3062
+#EXTINF:-1 tvg-id=3063 tvg-name="PR News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/PR_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", PR News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3063
+#EXTINF:-1 tvg-id=3064 tvg-name="Navsarjan Sanskruti News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Nav_Sanskruti_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Navsarjan Sanskruti News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3064
+#EXTINF:-1 tvg-id=3065 tvg-name="Bharat Nation" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Nation
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3065
+#EXTINF:-1 tvg-id=3066 tvg-name="Today 24 News UPUK" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Today_TV24_UPUK.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News UPUK
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3066
+#EXTINF:-1 tvg-id=3067 tvg-name="India Superfast" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Superfast.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Superfast
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3067
+#EXTINF:-1 tvg-id=3068 tvg-name="Bharat Update" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bharat_Update.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Update
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3068
+#EXTINF:-1 tvg-id=3069 tvg-name="Raapchik" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Raapchik.png" tvg-language="Bhojpuri" tvg-type="Entertainment" group-title="Entertainment", Raapchik
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3069
+#EXTINF:-1 tvg-id=3070 tvg-name="Vistaar News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Vistaar_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vistaar News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3070
+#EXTINF:-1 tvg-id=3071 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TV Asia Powered by Shemaroo
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3071
+#EXTINF:-1 tvg-id=3074 tvg-name="Shemaroo Filmy Gaane" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/shemaroofilmigaane.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Shemaroo Filmy Gaane
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3074
+#EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/shemaroobollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3075
+#EXTINF:-1 tvg-id=3076 tvg-name="India Prime News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/India_Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Prime News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3076
+#EXTINF:-1 tvg-id=3084 tvg-name="Taiwan Plus" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Taiwan_Plus.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Taiwan Plus
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3084
+#EXTINF:-1 tvg-id=3085 tvg-name="SACH BEDHADAK" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sach_Bedhadak.png" tvg-language="Hindi" tvg-type="News" group-title="News", SACH BEDHADAK
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3085
+#EXTINF:-1 tvg-id=3086 tvg-name="Naxatra News Hindi" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Naxatra_News_Hindi.png" tvg-language="Hindi" tvg-type="News" group-title="News", Naxatra News Hindi
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3086
+#EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sun Neo HD
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3088
+#EXTINF:-1 tvg-id=3089 tvg-name="Sangam TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/sangamtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sangam TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3089
+#EXTINF:-1 tvg-id=3090 tvg-name="KBC News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/KBC_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBC News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3090
+#EXTINF:-1 tvg-id=3103 tvg-name="News UNI" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/News_UNI.png" tvg-language="Hindi" tvg-type="News" group-title="News", News UNI
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3103
+#EXTINF:-1 tvg-id=3104 tvg-name="Smriti Patra TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Smriti_Patra.png" tvg-language="Hindi" tvg-type="News" group-title="News", Smriti Patra TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3104
+#EXTINF:-1 tvg-id=3105 tvg-name="National Tv India" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/National_Tv_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", National Tv India
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3105
+#EXTINF:-1 tvg-id=3110 tvg-name="SB News 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/SB_News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", SB News 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3110
+#EXTINF:-1 tvg-id=3111 tvg-name="ATV India News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/ATV_INDIA_NEWS.png" tvg-language="Hindi" tvg-type="News" group-title="News", ATV India News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3111
+#EXTINF:-1 tvg-id=3112 tvg-name="Sanmarg Tv" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Sanmarg_Tv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanmarg Tv
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3112
+#EXTINF:-1 tvg-id=3113 tvg-name="Jk Samachar News 24x7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Jk_Samachar_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", Jk Samachar News 24x7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3113
+#EXTINF:-1 tvg-id=3114 tvg-name="VST India News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/VST_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VST India News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3114
+#EXTINF:-1 tvg-id=3116 tvg-name="DKP News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DKP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", DKP News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3116
+#EXTINF:-1 tvg-id=3117 tvg-name="Rajya 24 News" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Rajya_24_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Rajya 24 News
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3117
+#EXTINF:-1 tvg-id=3118 tvg-name="DD Swayam Prabha 23" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_23.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 23
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3118
+#EXTINF:-1 tvg-id=3119 tvg-name="DD Swayam Prabha 24" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_24.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 24
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3119
+#EXTINF:-1 tvg-id=3120 tvg-name="DD Swayam Prabha 25" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_25.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 25
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3120
+#EXTINF:-1 tvg-id=3121 tvg-name="DD Swayam Prabha 26" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_26.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 26
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3121
+#EXTINF:-1 tvg-id=3122 tvg-name="DD Swayam Prabha 27" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_27.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 27
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3122
+#EXTINF:-1 tvg-id=3123 tvg-name="DD Swayam Prabha 28" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_28.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 28
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3123
+#EXTINF:-1 tvg-id=3124 tvg-name="DD Swayam Prabha 29" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_29.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 29
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3124
+#EXTINF:-1 tvg-id=3125 tvg-name="DD Swayam Prabha 30" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_30.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 30
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3125
+#EXTINF:-1 tvg-id=3126 tvg-name="DD Swayam Prabha 31" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_31.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 31
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3126
+#EXTINF:-1 tvg-id=3127 tvg-name="DD Swayam Prabha 32" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_32.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 32
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3127
+#EXTINF:-1 tvg-id=3128 tvg-name="DD Swayam Prabha 33" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_33.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 33
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3128
+#EXTINF:-1 tvg-id=3129 tvg-name="DD Swayam Prabha 34" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_34.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 34
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3129
+#EXTINF:-1 tvg-id=3130 tvg-name="DD Swayam Prabha 35" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_35.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 35
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3130
+#EXTINF:-1 tvg-id=3131 tvg-name="DD Swayam Prabha 36" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_36.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 36
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3131
+#EXTINF:-1 tvg-id=3132 tvg-name="DD Swayam Prabha 37" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_37.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 37
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3132
+#EXTINF:-1 tvg-id=3133 tvg-name="DD Swayam Prabha 38" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_38.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 38
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3133
+#EXTINF:-1 tvg-id=3134 tvg-name="DD Swayam Prabha 39" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_39.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 39
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3134
+#EXTINF:-1 tvg-id=3135 tvg-name="DD Swayam Prabha 40" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SWAYAM_PRABHA_40.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Swayam Prabha 40
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3135
+#EXTINF:-1 tvg-id=3136 tvg-name="DD Sathee 1" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 1
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3136
+#EXTINF:-1 tvg-id=3137 tvg-name="DD Sathee 2" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_2.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 2
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3137
+#EXTINF:-1 tvg-id=3138 tvg-name="DD Sathee 3" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_3.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 3
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3138
+#EXTINF:-1 tvg-id=3139 tvg-name="DD Sathee 4" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_4.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 4
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3139
+#EXTINF:-1 tvg-id=3140 tvg-name="DD Sathee 5" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_5.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 5
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3140
+#EXTINF:-1 tvg-id=3141 tvg-name="DD Sathee 6" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_6.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 6
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3141
+#EXTINF:-1 tvg-id=3142 tvg-name="DD Sathee 7" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 7
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3142
+#EXTINF:-1 tvg-id=3145 tvg-name="DD Sathee 8" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/DD_SATHEE_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 8
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3145
+#EXTINF:-1 tvg-id=3146 tvg-name="All Women's Sports Network" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/AWSN.png" tvg-language="English" tvg-type="Sports" group-title="Sports", All Women's Sports Network
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3146
+#EXTINF:-1 tvg-id=3149 tvg-name="City Music" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/City_Music.png" tvg-language="Bhojpuri" tvg-type="Music" group-title="Music", City Music
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3149
+#EXTINF:-1 tvg-id=3150 tvg-name="Ekamra Bharat Rastriya" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Ekamra_Bharat_Rastriya.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Ekamra Bharat Rastriya
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3150
+#EXTINF:-1 tvg-id=3151 tvg-name="RKMM TV" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/RKMM_TV.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", RKMM TV
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3151
+#EXTINF:-1 tvg-id=3154 tvg-name="Bloomberg Originals" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bloomberg_Originals.png" tvg-language="English" tvg-type="News" group-title="News", Bloomberg Originals
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3154
+#EXTINF:-1 tvg-id=3155 tvg-name="Bloomberg TV+" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Bloomberg_TV.png" tvg-language="English" tvg-type="News" group-title="News", Bloomberg TV+
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3155
+#EXTINF:-1 tvg-id=3156 tvg-name="Best of Aahat" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Best_of_Aahat.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Best of Aahat
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3156
+#EXTINF:-1 tvg-id=3157 tvg-name="Best of CID" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Best_of_CID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Best of CID
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3157
+#EXTINF:-1 tvg-id=3158 tvg-name="Best of Kapil Sharma" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Best_of_Kapil_Sharma.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Best of Kapil Sharma
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3158
+#EXTINF:-1 tvg-id=3159 tvg-name="Pehla Pyaar - Less Than 1 Percent Chance" tvg-logo="http://mohitweb.zapto.org:7887/redirectImg/Pehla_Pyaar_LessThan_1PercentChance.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Pehla Pyaar - Less Than 1 Percent Chance
+http://mohitweb.zapto.org:7887/redirect?username=yourUsername&password=yourPassword&chNum=3159
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="DTH-News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks
+#EXTINF:1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png?imbypass=true" group-title="DTH-News",AajTak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="DTH-News",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3
+#EXTINF:1 tvg-logo="https://bharatdev.s3.ap-south-1.amazonaws.com/media/cover-img-mobile/1674268441.png?v=5" group-title="DTH-News",Bharat 24
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono
+#EXTINF:1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="DTH-News",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="DTH-News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="DTH-News",IBC-24
+https://livetv.ibc24.in/livestream
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="DTH-News",Sudarshan
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="DTH-News",Loksabha TV
+https://playhls.media.nic.in/live/lstv-360p/index
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="DTH-News",Rajyasabha
+https://hls.media.nic.in/live/rstv/index
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="DTH-News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="DTH-News",Ankhiyon Gulab
+http://mohitweb.zapto.org:9090/Akhiyaan%20Gulaab%20-%20Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya-(Hd9video).mp4
