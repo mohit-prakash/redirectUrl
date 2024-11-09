@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        input {
+            margin: 5px 0;
+            padding: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            padding: 10px 15px;
+            margin: 5px 0;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        .navbar button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        .navbar button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="navbar">
+        <button id="homepageButton">Homepage</button>
+        <button id="logoutButton">Logout</button>
+    </div>
+    <h1>Admin Page</h1>
+    <label for="username">Username:</label>
+    <input type="text" id="username" placeholder="Enter username" required>
+    <br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" placeholder="Enter password" required>
+    <br>
+    <button id="loginButton" disabled>Login</button>
+    <button id="addUserButton" disabled>Add User</button>
+    <button id="removeUserButton" disabled>Remove User</button>
+    <button id="listUserButton">List Users</button>
+    <button id="resetButton">Reset</button>
+    <div id="result"></div>
+</div>
+<script>
+
+document.getElementById('username').addEventListener('input', updateButtonStates);
+document.getElementById('password').addEventListener('input', updateButtonStates);
+
+    function updateButtonStates() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+    const loginButton = document.getElementById('loginButton');
+    const addUserButton = document.getElementById('addUserButton');
+    const removeUserButton = document.getElementById('removeUserButton');
+
+    // Enable or disable buttons based on input fields
+    loginButton.disabled = !(username && password);
+    addUserButton.disabled = !(username && password); // Enable only if username and password are set
+    removeUserButton.disabled = !(username && password);
+};
+
+    document.getElementById('homepageButton').addEventListener('click', function() {
+        window.location.href = 'index.html'; // Change 'index.html' to the name of your main page
+    });
+
+
+    document.getElementById('homepageButton').addEventListener('click', logout);
+
+    document.getElementById('resetButton').addEventListener('click', function() {
+        document.getElementById('username').innerText='';
+        document.getElementById('password').innerText='';
+        updateButtonStates();
+    });
+
+    document.getElementById('resetButton').addEventListener('click', function() {
+        document.getElementById('username').innerText='';
+        document.getElementById('password').innerText='';
+        document.getElementById('result').innerText='';
+        updateButtonStates();
+    });
+
+    document.getElementById('loginButton').addEventListener('click', function() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    // Construct the URL for the GET request to show the playlist link
+    const loginUrl = `http://mohitweb.zapto.org:7887/login?username=${encodeURIComponent(username)}&password=${encodeURIComponent(password)}`;
+
+    // Fetch the playlist link from the new endpoint
+    fetch(loginUrl)
+        .then(response => {
+            if (response.status === 401) { // Check for unauthorized status
+                throw new Error('You are not Admin');
+            }
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.text(); // Expecting a plain text response
+        })
+        .then(data => {
+            // Display the response data on the screen
+            document.getElementById('result').innerText = `${data}`;
+            updateButtonStates(); // Update button states
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            document.getElementById('result').innerText = error.message; // Display the error message
+        });
+});
+
+document.getElementById('logoutButton').addEventListener('click', logout);
+
+function logout() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    // Construct the URL for the GET request to show the playlist link
+    const logoutUrl = 'http://mohitweb.zapto.org:7887/logout';
+
+    // Fetch the playlist link from the new endpoint
+    fetch(logoutUrl)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.text(); // Expecting a plain text response
+        })
+        .then(data => {
+            // Display the response data on the screen
+            document.getElementById('result').innerText = `${data}`;
+            updateButtonStates(); // Update button states
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            document.getElementById('result').innerText = error.message; // Display the error message
+        });
+}
+
+document.getElementById('addUserButton').addEventListener('click', function() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    // Construct the URL for the GET request to show the playlist link
+    const addUserUrl = `http://mohitweb.zapto.org:7887/addUser?username=${encodeURIComponent(username)}&password=${encodeURIComponent(password)}`;
+
+    // Fetch the playlist link from the new endpoint
+    fetch(addUserUrl)
+        .then(response => {
+            if (response.status === 401) { // Check for unauthorized status
+                throw new Error('You are not admin, login as admin first');
+            }
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.text(); // Expecting a plain text response
+        })
+        .then(data => {
+            // Display the response data on the screen
+            document.getElementById('result').innerText = `${data}`;
+            updateButtonStates(); // Update button states
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            document.getElementById('result').innerText = error.message; // Display the error message
+        });
+});
+
+document.getElementById('removeUserButton').addEventListener('click', function() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    // Construct the URL for the GET request to show the playlist link
+    const removeUserUrl = `http://mohitweb.zapto.org:7887/removeUser?username=${encodeURIComponent(username)}&password=${encodeURIComponent(password)}`;
+
+    // Fetch the playlist link from the new endpoint
+    fetch(removeUserUrl)
+        .then(response => {
+            if (response.status === 401) { // Check for unauthorized status
+                throw new Error('You are not admin, login as admin first');
+            }
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.text(); // Expecting a plain text response
+        })
+        .then(data => {
+            // Display the response data on the screen
+            document.getElementById('result').innerText = `${data}`;
+            updateButtonStates(); // Update button states
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            document.getElementById('result').innerText = error.message; // Display the error message
+        });
+});
+
+// Function to fetch the user list from the endpoint
+function fetchUserList() {
+    fetch('http://mohitweb.zapto.org:7887/getList')
+        .then(response => {
+            if (response.status === 401) { // Check for unauthorized status
+                throw new Error('You are not admin, login as admin first');
+            }
+            if (!response.ok) {
+                throw new Error('Network response was not ok.');
+            }
+            return response.json(); // Parse the JSON from the response
+        })
+        .then(data => {
+            // Create a table to display the usernames and passwords
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = ''; // Clear previous results
+
+            // Create a table element
+            const table = document.createElement('table');
+            table.style.width = '100%'; // Set table width
+            table.style.borderCollapse = 'collapse'; // Collapse borders
+
+            // Create table header
+            const thead = document.createElement('thead');
+            const headerRow = document.createElement('tr');
+            const usernameHeader = document.createElement('th');
+            const passwordHeader = document.createElement('th');
+
+            usernameHeader.textContent = 'Username';
+            passwordHeader.textContent = 'Password';
+
+            // Add styles to headers
+            usernameHeader.style.border = '1px solid #ccc';
+            passwordHeader.style.border = '1px solid #ccc';
+            usernameHeader.style.padding = '8px';
+            passwordHeader.style.padding = '8px';
+
+            headerRow.appendChild(usernameHeader);
+            headerRow.appendChild(passwordHeader);
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
+
+            // Create table body
+            const tbody = document.createElement('tbody');
+
+            // Loop through the data and create table rows
+            data.forEach(user => {
+                const row = document.createElement('tr');
+                const usernameCell = document.createElement('td');
+                const passwordCell = document.createElement('td');
+
+                usernameCell.textContent = user.username;
+                passwordCell.textContent = user.password;
+
+                // Add styles to cells
+                usernameCell.style.border = '1px solid #ccc';
+                passwordCell.style.border = '1px solid #ccc';
+                usernameCell.style.padding = '8px';
+                passwordCell.style.padding = '8px';
+
+                row.appendChild(usernameCell);
+                row.appendChild(passwordCell);
+                tbody.appendChild(row);
+            });
+
+            table.appendChild(tbody);
+            resultDiv.appendChild(table); 
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerText = error.message; // Display error message
+        });
+}
+
+document.getElementById('listUserButton').addEventListener('click',fetchUserList);
+
+</script>
+</body>
+</html>

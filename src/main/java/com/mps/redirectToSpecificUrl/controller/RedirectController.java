@@ -1,5 +1,6 @@
 package com.mps.redirectToSpecificUrl.controller;
 
+import com.mps.redirectToSpecificUrl.dto.ValidUserDTO;
 import com.mps.redirectToSpecificUrl.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ByteArrayResource;
@@ -7,12 +8,17 @@ import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.view.RedirectView;
 
+import java.util.List;
+
 @RestController
 @CrossOrigin
 @RequestMapping("/")
 public class RedirectController {
     @Autowired
     private UserService userService;
+    private static final String ADMIN_UID = "mohitweb";
+    private static final String ADMIN_PWD = "Suraj@9031";
+    private boolean isAdmin = false;
 
     @GetMapping("/redirect")
     public RedirectView redirect(@RequestParam String username, @RequestParam String password, @RequestParam int chNum) {
@@ -74,6 +80,61 @@ public class RedirectController {
             return ResponseEntity.ok().body("Refreshed Successfully!!");
         } catch (Exception e) {
             return ResponseEntity.internalServerError().body("Something went wrong!!");
+        }
+    }
+    @GetMapping("/login")
+    public ResponseEntity<String> login(@RequestParam String username, @RequestParam String password) {
+        if (ADMIN_UID.equals(username) && ADMIN_PWD.equals(password)){
+            isAdmin = true;
+            return ResponseEntity.ok().body("Login Success!!");
+        } else {
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("Login Fail, invalid username or password");
+        }
+    }
+    @GetMapping("/logout")
+    public ResponseEntity<String> logout() {
+        isAdmin = false;
+        return ResponseEntity.ok().body("Logout Success!!");
+    }
+
+    @GetMapping("/addUser")
+    public ResponseEntity<String> registerUser(@RequestParam String username, @RequestParam String password) {
+        try {
+            if (isAdmin) {
+                userService.writeCsv(username+","+password,false);
+                return ResponseEntity.ok().body("User Registered Successfully");
+            } else {
+                return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("You are not allowed to register.");
+            }
+        } catch (Exception e) {
+            return ResponseEntity.internalServerError().body(e.getMessage());
+        }
+    }
+
+    @GetMapping("/getList")
+    public ResponseEntity<?> getList() {
+        try {
+            if (isAdmin) {
+                List<ValidUserDTO> validUsers = userService.getValidUsers();
+                return ResponseEntity.ok().body(validUsers);
+            } else {
+                return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("You are not allowed to see list of users");
+            }
+        } catch (Exception e) {
+            return ResponseEntity.internalServerError().body(e.getMessage());
+        }
+    }
+    @GetMapping("/removeUser")
+    public ResponseEntity<String> removeUser(@RequestParam String username, @RequestParam String password) {
+        try {
+            if (isAdmin) {
+                userService.writeCsv(username+","+password,true);
+                return ResponseEntity.ok().body("User access has been revoked.");
+            } else {
+                return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("You are not allowed.");
+            }
+        } catch (Exception e) {
+            return ResponseEntity.internalServerError().body(e.getMessage());
         }
     }
     @GetMapping("/error")
