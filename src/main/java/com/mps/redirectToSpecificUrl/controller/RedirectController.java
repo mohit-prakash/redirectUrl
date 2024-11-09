@@ -22,7 +22,7 @@ public class RedirectController {
 
     @GetMapping("/redirect")
     public RedirectView redirect(@RequestParam String username, @RequestParam String password, @RequestParam int chNum) {
-        if (userService.validateUser(username, password)) {
+        if (username.charAt(0)!='#' && userService.validateUser(username, password)) {
             return new RedirectView("http://mohitweb.zapto.org:7878/live/"+chNum+".m3u8");
         } else {
             return new RedirectView("/error");
@@ -38,7 +38,7 @@ public class RedirectController {
     public ResponseEntity<?> fetchM3U(@RequestParam String username,
                                                       @RequestParam String password) {
         try {
-            if (userService.validateUser(username, password)) {
+            if (username.charAt(0)!='#' && userService.validateUser(username, password)) {
                 String m3uContent = userService.getPlaylist();
                 if (m3uContent != null) {
                     m3uContent = m3uContent.replace("yourUsername", username)
@@ -63,7 +63,7 @@ public class RedirectController {
     @GetMapping("/showPlaylist")
     public ResponseEntity<String> showPlaylist(@RequestParam String username, @RequestParam String password) {
         try {
-            if (userService.validateUser(username, password)) {
+            if (username.charAt(0)!='#' && userService.validateUser(username, password)) {
                 return ResponseEntity.ok().body("http://mohitweb.zapto.org:7887/getPlaylist?username="+username+"&password="+password);
             } else {
                 return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("You are not authorized, check with administrator");

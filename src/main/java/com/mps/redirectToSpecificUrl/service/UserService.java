@@ -62,7 +62,12 @@ public class UserService {
                 if ("".equals(csv)) {
                     loadCsv();
                 }
-                csv = csv + "\n" + data;
+                boolean isUserExist = checkIfExistsInCSV(csv, "#"+data);
+                if (isUserExist) {
+                    csv = csv.replace("#" + data, data);
+                } else {
+                    csv = csv + "\n" + data;
+                }
             }
             Files.writeString(path, csv);
         } catch (IOException e) {
